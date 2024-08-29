@@ -1,0 +1,9 @@
+/* awav游戏配置 */
+{
+    "version": "0.1.0",
+    /* 显示设置 */
+    "display": {
+        "screen-size": [800, 600],
+        "full-screen": false
+    }
+}
